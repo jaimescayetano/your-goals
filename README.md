@@ -37,5 +37,5 @@ php artisan serve
 ```
 
 ## Capturas
-
+<img align="center" width=100% src="https://raw.githubusercontent.com/jaimescayetano/jaimescayetano/main/src/YourGoals.png" alt="YourGoals" />
 
