@@ -24,7 +24,7 @@ composer install
 npm install
 ```
 
-### Iniciar el servidor ⚙️
+### Ejercutar migraciones ⚙️
 
 ```
 php artisan migrate
