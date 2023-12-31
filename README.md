@@ -24,7 +24,7 @@ composer install
 npm install
 ```
 
-### Ejercutar migraciones ⚙️
+### Ejecutar migraciones ⚙️
 
 ```
 php artisan migrate
